@@ -1,7 +1,7 @@
 # rel
 Official rel repository for the HTML standard rel value registry and particular rel value specifications.
 
-Derived from the customs and requirements of http://microformats.org/ contributions and licenses:
+Derived from the customs and requirements of [http://microformats.org/](http://microformats.org/wiki/Template:cc0-owfa-license) contributions & licenses, and inspired by [the licenses that Mozilla prefers to use for standards](https://wiki.mozilla.org/Standards/license).
 
 Contributor license agreement: All contributions must be provided under both [CC0](http://creativecommons.org/publicdomain/zero/1.0/) and the [OWFa](http://www.openwebfoundation.org/legal/the-owf-1-0-agreements/owfa-1-0) contributors agreement and license.
 
